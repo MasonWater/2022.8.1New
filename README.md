@@ -4,3 +4,5 @@ GIT EXERCISE
 ```
 <h1> hello world</h1>
 ```
+
+![chart]("test.png")
